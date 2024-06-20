@@ -1,0 +1,21 @@
+{
+    "name": "EZLOT",
+    "short_name": "EZLOT",
+    "description": "EZLOT",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#4A90E2",
+    "background_color": "#F7F8FA",
+    "icons": [
+        {
+            "src": "img/icons/192-192.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "img/icons/512-512.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
